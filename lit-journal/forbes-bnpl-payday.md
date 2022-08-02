@@ -1,4 +1,4 @@
-[HOME](../readme.md)
+[HOME](../lit_notes)
 
 ---
 
