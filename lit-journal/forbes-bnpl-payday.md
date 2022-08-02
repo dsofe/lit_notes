@@ -1,4 +1,4 @@
-[HOME](/readme.md)
+[HOME](../readme.md)
 
 ---
 
