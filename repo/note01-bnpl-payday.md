@@ -1,4 +1,4 @@
-*[Back to main page](./main.md)*
+*[Back to main page](../main.md)*
 
 ---
 
