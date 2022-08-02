@@ -1,4 +1,4 @@
-[HOME](../lit_notes/index.md)
+[HOME](../index.md)
 
 ---
 
