@@ -1,5 +1,5 @@
 [HOME](../index.md)  
-[Journalism main page](./main.md)
+[Journalism notes](./main.md)
 
 ---
 
