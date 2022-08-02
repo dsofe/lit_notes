@@ -4,7 +4,8 @@ This is a collection of notes on literature (academic, news, etc.) relevant to v
 
 (table here for content)
 
-**Type**      | **Last Updated  **
---------- | ---------  
-[News](lit-journalism.md) | something   
-Academic | something  
+**Type**                                                       | **Last Updated**
+---------------------------------------------------------------| ----------------
+[News](./main.md)                                              | some date   
+[Academic](./main.md)                                          | some date  
+[Other <br> (e.g., public agencies and nonprofits)](./main.md) | some date  
