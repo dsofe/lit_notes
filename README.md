@@ -6,5 +6,5 @@ This is a collection of notes on literature (academic, news, etc.) relevant to v
 
 **Type**      | **Last Updated  **
 --------- | ---------  
-something | something   
-something | something  
+[News](lit-journalism.md) | something   
+Academic | something  
