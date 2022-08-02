@@ -16,4 +16,4 @@ This piece briefly comments on the differences between "buy now, pay later" (BNP
 - Many payday loan borrowers in the US cannot repay the loan in full and require a rollover loan to make up for the cost of their tardiness.  
 - A survey of BNPL users found that one in three respondents admitted tardiness on one or more installments.   
 - BNPL providers have lower interest and late fees relative to payday lenders, whose penalties for missed payments encourage debt dependency.  
-- Some US states have capped the fees payday lenders can charge (here's a {link to a map with payday lending interest rates by state](https://www.cnbc.com/2021/02/16/map-shows-typical-payday-loan-rate-in-each-state.html), published in 2021.)  
+- Some US states have capped the fees payday lenders can charge (here's a [link to a map with payday lending interest rates by state](https://www.cnbc.com/2021/02/16/map-shows-typical-payday-loan-rate-in-each-state.html), published in 2021.)  
