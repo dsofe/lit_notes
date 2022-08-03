@@ -1,5 +1,7 @@
 *[Back to home page](./README.md)*
 
+> [dashboard](./equity-dashboard-20220803.html)
+
 ---
 
 <br>
