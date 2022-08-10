@@ -23,7 +23,7 @@ One indicator tracks how households have used their Child Tax Credit.
 
 #### Data points *(based on the most recent survey data, collected June 29-July 11, 2022)*
 
-Percentage of households that have either mostly *spent* their CTC or used it to *pay down debt* **rather** than *save* it:  
+Among households that received the Child Tax Credit on their 2021 Federal tax return in the last 4 weeks, the percentage of households that have either mostly *spent* their CTC or used it to *pay down debt* **rather** than *save* it:  
 * NYC metro area: **82%**
 * U.S.: **77%**
 
