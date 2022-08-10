@@ -24,7 +24,7 @@ One indicator tracks how households have used their Child Tax Credit.
 #### Data points *(based on the most recent survey data, collected June 29-July 11, 2022)*
 
 Percentage of households that have either mostly *spent* their CTC or used it to *pay down debt* **rather** than *save* it:  
-* NYC metro area: **81%**
+* NYC metro area: **82%**
 * U.S.: **77%**
 
 [This link](https://www.census.gov/data-tools/demo/hhp/#/?s_metro=35620&areaSelector=msa&periodSelector=47&measures=CTCUSENEW) takes you to these results for the **NYC metropolitan statistical area** (which includes municipalities in NJ and PA). You can also filter the data for just NY state. 
