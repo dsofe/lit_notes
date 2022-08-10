@@ -31,11 +31,11 @@ Percentage of households that have either mostly *spent* their CTC or used it to
 
 ### Additional survey data
 
-The indicator summarizes the detailed survey responses. The questionnaire, however, collects richer information--such as the categories (e.g., food, clothing, rent, recreational goods) to which households allocated the “Child Tax Credit” portion of their refund payment.
+The indicator summarizes the richer information collected by the questionnaire--such as the categories (e.g., food, clothing, rent, recreational goods) to which households allocated the “Child Tax Credit” portion of their refund payment.
 
-* The questionnaire is [here](https://www2.census.gov/programs-surveys/demo/technical-documentation/hhp/Phase3-5_Questionnaire_07_20_22_English.pdf); see pages 17-20 for the CTC questions.
+* The survey instrument is [here](https://www2.census.gov/programs-surveys/demo/technical-documentation/hhp/Phase3-5_Questionnaire_07_20_22_English.pdf); see pages 17-20 for the CTC questions.
 
-* Detailed survey data are [here](https://www2.census.gov/programs-surveys/demo/tables/hhp/2022/wk47/ctc1_week47.xlsx); note that the data are very experimental and difficult to interpret.
+* Detailed survey data, for the most recent collection period, are [here](https://www2.census.gov/programs-surveys/demo/tables/hhp/2022/wk47/ctc1_week47.xlsx); note that the data are very experimental and difficult to interpret.
 
 
 
