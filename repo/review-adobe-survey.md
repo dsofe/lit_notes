@@ -1,3 +1,5 @@
-<script>
-  document.body.style.backgroundColor = "#D4CAC8";
-  </script>
+<header content: links>
+
+----
+
+## The U.S. Census Bureau's *Household Pulse Survey*: Insights on Child Tax Credit Spending
