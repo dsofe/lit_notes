@@ -36,8 +36,3 @@ The indicator summarizes the richer information collected by the questionnaire--
 * The survey instrument is [here](https://www2.census.gov/programs-surveys/demo/technical-documentation/hhp/Phase3-5_Questionnaire_07_20_22_English.pdf); see pages 17-20 for the CTC questions.
 
 * Detailed survey data, for the most recent collection period, are [here](https://www2.census.gov/programs-surveys/demo/tables/hhp/2022/wk47/ctc1_week47.xlsx); note that the data are very experimental and difficult to interpret.
-
-
-
-
-> [(Here’s a link to this entire summary.)](https://dsofe.github.io/lit_notes/repo/note02-household-pulse-survey-ctc)
