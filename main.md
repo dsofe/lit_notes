@@ -14,7 +14,7 @@ Journalism (#anchior-link)
 Academic (#anchor-link)  
 Other (#anchor-link)  
 
-## Journalism
+## News
 
 *Organized by most recent summary, with newest post in __bold__*
 
