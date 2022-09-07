@@ -1,31 +1,25 @@
 <br>
 
-## The U.S. Census Bureau's *Household Pulse Survey*: Insights on Child Tax Credit Spending
+## Families’ Job Characteristics and Economic Self-Sufficiency: Differences by Income, Race-Ethnicity, and Nativity  
 
-Here is some background information on the **[Census' *Household Pulse Survey*](https://www.census.gov/programs-surveys/household-pulse-survey.html)**, the companion data tool, and data points on household use of the Child Tax Credit from the data tool.
+> **[Link to journal article*](https://www.rsfjournal.org/content/8/5/67)**, the companion data tool, and data points on household use of the Child Tax Credit from the data tool.
 
-### The Household Pulse Survey
-The 20-minute online survey--which has been conducted every few weeks since April 2020, with results released shortly after every wave of data collection--is intended to capture how the coronavirus pandemic is impacting households across the country from a social and economic perspective. 
+### Summary
 
-> Note: The survey questions generally ask about recent (spanning anywhere from the past 7 days to the past few weeks) household challenges and spending in various categories—-e.g., health, food. Data are collected over a 2-3 week period and released to the public shortly thereafter.
+In this examination of household budgets, researchers at Brandeis University assessed whether "parents’ earnings from full-time work are enough to meet a basic family budget."
 
-### Data tool indicator: Child Tax Credit Spending
+the gap between income from full-time employment and the total cost of basic needs.
 
-One indicator tracks how households have used their Child Tax Credit. 
-
-> Note: The survey and data tool varied in how they measured CTC spending after March 2022: 
 
 * For the 9 survey waves between July 21, 2022 and February 7, 2022, the indicator captures
-**Child Tax Credit Spending** as *the percentage of adults in households that received a Child Tax Credit payment in the last 4 weeks who either mostly spent it or used it to pay down debt.*
 
 * For the 5 survey waves since March 2, 2022, the indicator captures
-**Child Tax Credit Spending (Received from 2021 Tax Return)** as *the percentage of adults living in households that received the Child Tax Credit on their 2021 Federal tax return in the last 4 weeks who either mostly spent it or used it to pay down debt.*
 
-#### Data points *(based on the most recent survey data, collected June 29-July 11, 2022)*
+### Methods
 
 Among households that received the Child Tax Credit on their 2021 Federal tax return in the last 4 weeks, the percentage that have either *mostly spent* their CTC or *mostly used it to pay down debt* **rather** than *mostly save* it:  
-* NYC metro area: **82%**
-* U.S.: **77%**
+* Data are from the period before COVID-19
+
 
 [This link](https://www.census.gov/data-tools/demo/hhp/#/?s_metro=35620&areaSelector=msa&periodSelector=47&measures=CTCUSENEW) takes you to these results for the **NYC metropolitan statistical area** (which includes municipalities in NJ and PA). You can also filter the data for just NY state. 
 
