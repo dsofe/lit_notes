@@ -12,7 +12,7 @@ The study's aims are to determine:
 (1) whether up to two adults in a family earn enough to cover a basic family budget; and  
 (2) the extent to which employer-provided benefits, health insurance, and pension plans are available to families  
 
-<br>
+<br>  
 
 > **Key concepts:**
 > 
@@ -21,7 +21,7 @@ The study's aims are to determine:
 > * *Family budget wage gap*: The additional hourly wages that low-income full-time working families with children need to cover a family budget.
 > * *Full-time, year-round* work: 40 hours per week, 52 weeks per year.
 
-<br> 
+<br>  
 
 ### Methodological notes
 
@@ -34,7 +34,8 @@ A few qualifications about the analysis to consider as you reflect on the result
   * **Low-income** working families: **23,231**
 * Analysis excludes families in which a parent works only part-time or part-year, is unpaid, or is self-employed.
 * Self-sufficiency measured against the Census' *Official Poverty Measure* and an estimated family budget from the *Living Wage Calculator* ([see below](#helpful-resources-cited-in-this-article))
-<br>
+
+<br>  
 
 ### Findings [*(as stated in the press release*](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency) or [*the article)*](https://www.rsfjournal.org/content/8/5/67#sec-10)
 
