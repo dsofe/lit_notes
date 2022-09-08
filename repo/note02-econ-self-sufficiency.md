@@ -33,7 +33,7 @@ A few qualifications about the analysis to consider as you reflect on the result
 
 ### Findings *(as stated in [the press release](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency) or [the article)](https://www.rsfjournal.org/content/8/5/67#sec-10)*
 
-Highlighted findings:  
+Some key findings:  
 
 - **Fewer than 25% of low-income families** working full time earn enough to cover a family budget.
 - **Over 25% of low-income families** earn less than half of what is needed to meet their budget.
