@@ -37,7 +37,7 @@ A few qualifications about the analysis to consider as you reflect on the result
 
 <br>  
 
-### Findings [*(as stated in the press release*](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency) or [*the article)*](https://www.rsfjournal.org/content/8/5/67#sec-10)
+### Findings *(as stated in [the press release](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency) or [the article)](https://www.rsfjournal.org/content/8/5/67#sec-10)*
 
 Highlighted findings:  
 
