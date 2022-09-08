@@ -4,20 +4,43 @@
 
 > [Link to journal article](https://www.rsfjournal.org/content/8/5/67)  
 
+<br> 
+
 ### Summary
 
-In this examination of household budgets, researchers at Brandeis University assessed whether "parents’ earnings from full-time work are enough to meet a basic family budget."
+In this examination of economic self-sufficiency, researchers at Brandeis University assess whether parents’ earnings from full-time work are enough to meet a family's basic needs. 
 
-the gap between income from full-time employment and the total cost of basic needs.
+<br>
+  
+> **Key concepts**
+> 
+> * *Economic self-sufficiency*: The ability to cover a basic family budget with labor-market earnings.  
+> * A *family budget* consists of "basic needs (housing, food, medical care), work (transportation, childcare), and minimal household expenses."  
+> * *Family budget wage gap*: The additional hourly wages that low-income full-time working families with children need so they can live within a family budget.
 
-family budget wage gap, defined as the "additional hourly wages that low-income full-time working families need to live within a family budget."
+<br>
 
-* For the 9 survey waves between July 21, 2022 and February 7, 2022, the indicator captures
+The study's main objectives are to determine:  
+(1) whether up to two adults in a family earn enough to cover a basic family budget; and  
+(2) the extent to which two employer-provided benefits, health insurance, and pension plans are available to families  
 
-* For the 5 survey waves since March 2, 2022, the indicator captures
+<br> 
 
-### Methods
+### Limitations
 
-Among households that received the Child Tax Credit on their 2021 Federal tax return in the last 4 weeks, the percentage that have either *mostly spent* their CTC or *mostly used it to pay down debt* **rather** than *mostly save* it:  
-* Data are from the period before COVID-19
+A few qualifications about the analysis to consider as you reflect on the results:
 
+* Sample only includes only 
+* Data are from the period before COVID-19--specifically, Census data for the years 2015-2019.
+* Costs are de
+
+<br>
+
+### Findings [*(based on the press release)*](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency)
+
+> The study offers unique insights about the consequences of declining wages and benefits on full-time working families. Among other key findings:  
+>  
+> - **More than half of full-time working Black and Hispanic families (52% and 59%, respectively) do not earn enough to meet their basic needs, compared to 25% of White families and 23% of Asian families.** These inequities persist even after controlling for education, occupation and other characteristics.   
+> - **The median low-income family who works full time and does not earn a family budget needs an additional $11 more per hour, or about $23,500 in yearly earnings, to reach one.** Black and Hispanic low-income families need to earn even more to cover a family budget: about $26,000 and $26,500 in additional annual earnings, respectively, compared to $20,000 for White low-income families.    
+> - **Low-income Hispanic families have extremely limited access to benefits through their employers.** More than half (52%) do not have health insurance, and more than three-quarters (76%) do not have pensions.   
+> - **43% of low-income Hispanic families do not earn a family budget nor do they have access to employer benefits. This is nearly twice as high as low-income White families (24%).** 41% of low-income immigrant families also do not earn a family budget or have access to employer benefits.   
