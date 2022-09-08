@@ -9,8 +9,8 @@
 In this examination of economic self-sufficiency, researchers from Brandeis University assess whether parents’ earnings from full-time work are enough to meet a family's basic needs. The study analyzes only families in which the single parent works or both parents work full-time year-round. The results include analysis of families by income level, race/ethnicity, and nativity (i.e., immigrant or non-immigrant).
 
 The study's aims are to determine  
-(1) whether up to two adults in a family earn enough to cover a basic family budget; and  
-(2) the extent to which employer-provided benefits, health insurance, and pension plans are available to families  
+ 1. whether up to two adults in a family earn enough to cover a basic family budget; and  
+ 2. the extent to which employer-provided benefits, health insurance, and pension plans are available to families  
 
 > **Key concepts:**
 > 
