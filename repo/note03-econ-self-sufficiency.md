@@ -34,6 +34,7 @@ A few qualifications about the analysis to consider as you reflect on the result
 * Data represent the period before COVID-19--specifically, the years 2015-2019.
 * Sample includes only 
 * Costs are de
+* Family budget calculators [(see below)](#helpful-resources-cited-in-this-article) work full time and year round because expenses like childcare are calculated for full-time year-round care
 
 <br>
 
