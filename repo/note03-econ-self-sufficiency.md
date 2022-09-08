@@ -12,16 +12,12 @@ The study's aims are to determine:
 (1) whether up to two adults in a family earn enough to cover a basic family budget; and  
 (2) the extent to which employer-provided benefits, health insurance, and pension plans are available to families  
 
-<br>  
-
 > **Key concepts:**
 > 
 > * *Economic self-sufficiency*: The ability to cover a basic family budget with labor-market earnings.  
 > * A *family budget* consists of basic needs (housing, food, medical care), work (transportation, childcare), and minimal household expenses.
 > * *Family budget wage gap*: The additional hourly wages that low-income full-time working families with children need to cover a family budget.
 > * *Full-time, year-round* work: 40 hours per week, 52 weeks per year.
-
-<br>  
 
 ### Methodological notes
 
@@ -35,8 +31,6 @@ A few qualifications about the analysis to consider as you reflect on the result
 * Analysis excludes families in which a parent works only part-time or part-year, is unpaid, or is self-employed.
 * Self-sufficiency measured against the Census' *Official Poverty Measure* and an estimated family budget from the *Living Wage Calculator* ([see below](#helpful-resources-cited-in-this-article))
 
-<br>  
-
 ### Findings *(as stated in [the press release](https://www.diversitydatakids.org/research-library/research-report/families-job-characteristics-and-economic-self-sufficiency) or [the article)](https://www.rsfjournal.org/content/8/5/67#sec-10)*
 
 Highlighted findings:  
@@ -48,8 +42,6 @@ Highlighted findings:
 - **The median low-income nonimmigrant family needs to earn an additional $10.43 in hourly wages, versus $11.93 for the median low-income immigrant family, to meet their basic needs.** 
 - **Low-income Hispanic families have extremely limited access to benefits through their employers.** More than half (52%) do not have health insurance, and more than three-quarters (76%) do not have pensions.   
 - **43% of low-income Hispanic families do not earn a family budget nor do they have access to employer benefits. This is nearly twice as high as low-income White families (24%).** 41% of low-income immigrant families also do not earn a family budget or have access to employer benefits. 
-
-<br>
 
 ### Helpful resources cited in this article
 
