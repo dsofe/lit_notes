@@ -35,13 +35,13 @@ A few qualifications about the analysis to consider as you reflect on the result
 
 Highlighted findings:  
 
-- **Fewer than 25% of low-income families working full time earn enough to cover a family budget.**
-- **Over 25% of low-income families earn less than half of what is needed to meet their budget.**
-- **More than half of full-time working Black and Hispanic families (52% and 59%, respectively) do not earn enough to meet their basic needs, compared to 25% of White families and 23% of Asian families.** These inequities persist even after controlling for education, occupation and other characteristics.   
-- **The median low-income family who works full time and does not earn a family budget needs an additional $11 more per hour, or about $23,500 in yearly earnings, to cover their expenses.** Black and Hispanic low-income families need to earn even more to cover a family budget: about $26,000 and $26,500 in additional annual earnings, respectively, compared to $20,000 for White low-income families.  
-- **The median low-income nonimmigrant family needs to earn an additional $10.43 in hourly wages, versus $11.93 for the median low-income immigrant family, to meet their basic needs.** 
-- **Low-income Hispanic families have extremely limited access to benefits through their employers.** More than half (52%) do not have health insurance, and more than three-quarters (76%) do not have pensions.   
-- **43% of low-income Hispanic families do not earn a family budget nor do they have access to employer benefits. This is nearly twice as high as low-income White families (24%).** 41% of low-income immigrant families also do not earn a family budget or have access to employer benefits. 
+- **Fewer than 25% of low-income families** working full time earn enough to cover a family budget.
+- **Over 25% of low-income families** earn less than half of what is needed to meet their budget.
+- **More than half of full-time working Black and Hispanic families** (52% and 59%, respectively) do not earn enough to meet their basic needs, compared to 25% of White families and 23% of Asian families. These inequities persist even after controlling for education, occupation and other characteristics.   
+- **The median low-income family** who works full time and does not earn sufficient income to meet a family budget needs an additional $11 more per hour, or about $23,500 in yearly earnings, to cover their expenses. Black and Hispanic low-income families need to earn even more to cover a family budget: about $26,000 and $26,500 in additional annual earnings, respectively, compared to $20,000 for White low-income families.  
+- **The median low-income immigrant family** needs to earn an additional $11.93 in hourly wages, versus $10.43 for the median low-income nonimmigrant family, to meet their basic needs. 
+- **Low-income Hispanic families** have extremely limited access to benefits through their employers. More than half (52%) do not have health insurance, and more than three-quarters (76%) do not have pensions.   
+- **43% of low-income Hispanic families** do not earn a family budget nor do they have access to employer benefits. This is nearly twice as high as low-income White families (24%). 41% of low-income immigrant families also do not earn a family budget or have access to employer benefits. 
 
 ### Helpful resources cited in this article
 
