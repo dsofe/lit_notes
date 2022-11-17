@@ -18,8 +18,7 @@
 
 <br>    
 
-### News
-
+### News    
 
 - **[BNPL Versus Payday Lending: All Consumer Debt Is Not Created Equal](./repo/note01-bnpl-payday.md)**
 
@@ -29,9 +28,7 @@
 
 <br>
 
-### Academic
-
-*Organized by most recent summary, with newest post in __bold__*
+### Academic    
 
 -   
 
@@ -39,12 +36,8 @@
 
 <br>
 
-### Other 
-**(e.g., reports from public agencies and nonprofit organizations)**
-
-<br>
-
-*Organized by most recent summary, with newest post in __bold__*
+### Other   
+**(e.g., reports from public agencies and nonprofit organizations)**    
 
 - 
 
