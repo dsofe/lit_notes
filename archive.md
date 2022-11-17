@@ -8,7 +8,7 @@
 
 - ### [News Articles](#news-articles)  
 - ### [Academic Papers](#academic-papers)  
-- ### [Other Publications (e.g., reports from public agencies and nonprofit organizations)](#other-publications)  
+- ### [Other Publications(#other-publications)  
 
 <hr>
 
