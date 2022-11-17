@@ -11,7 +11,7 @@
 > - [Recording](https://www.urban.org/events/launching-urbans-financial-health-and-wealth-dashboard-leveraging-local-data-improve&utm_source=urban_ea&utm_campaign=launching_urbans_dashboard&utm_id=financial_well-being_and_wealth&utm_content=general&utm_term=financial_well-being_and_wealth)  
 > - [Slides](https://www.urban.org/sites/default/files/2022-11/FH%20Dashboard%20Slides.pdf)   
  
-The Urban Institute launched its Financial Health and Wealth Dashboard last
+The Urban Institute launched its Financial Health and Wealth Dashboard last  
 
 
 
