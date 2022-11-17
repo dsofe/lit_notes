@@ -8,9 +8,9 @@ Main page for navigation
 
 list of all stuff
 
-News (#news)  
-Academic (#academic)  
-Other (#other)  
+[News](#news)  
+[Academic](#academic)  
+[Other](#other)  
 
 ## News
 
