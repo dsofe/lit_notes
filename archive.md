@@ -15,9 +15,10 @@
 <br>
 <br>
 
+*The content for each section is organized by recency of the post.*
+
 ### News
 
-*Organized by most recent summary, with newest post in __bold__*
 
 - **[BNPL Versus Payday Lending: All Consumer Debt Is Not Created Equal](./repo/note01-bnpl-payday.md)**
 
