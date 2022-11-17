@@ -6,14 +6,6 @@
 
 # ARCHIVE   
 
-- ### [News Articles](#news-articles)  
-- ### [Academic Papers](#academic-papers)  
-- ### [Other Publications](#other-publications)  
-
-<hr>
-
-<br>  
-
 *The content for each section is organized by recency of the post.*
 
 <br>    
