@@ -20,7 +20,7 @@
 
 ### News articles       
 
-- **[BNPL Versus Payday Lending: All Consumer Debt Is Not Created Equal](./repo/note01-bnpl-payday.md)**
+- [**BNPL Versus Payday Lending: All Consumer Debt Is Not Created Equal**](./repo/note01-bnpl-payday.md)
 
 - 
 
@@ -39,6 +39,6 @@
 ### Other publications         
 **(e.g., reports from public agencies and nonprofit organizations)**    
 
-- note02-econ-self-sufficiency.md
+- [**Families’ Job Characteristics and Economic Self-Sufficiency: Differences by Income, Race-Ethnicity, and Nativity**](./repo/note02-econ-self-sufficiency.md)
 
 - 
