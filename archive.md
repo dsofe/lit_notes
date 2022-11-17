@@ -6,9 +6,13 @@
 
 # ARCHIVE   
 
-*The content for each section is organized by recency of the post.*
+<br>  
 
-<br>    
+*The content for each section is organized by recency of the post.*   
+
+<br>  
+
+<hr>    
 
 ### News articles       
 
