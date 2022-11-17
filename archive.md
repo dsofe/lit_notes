@@ -6,11 +6,7 @@
 
 # Archive  
 
-<br>  
-
 *The content for each section is organized by recency of the post.*   
-
-<br>  
 
 <hr>    
 
