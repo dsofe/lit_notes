@@ -1,11 +1,10 @@
-# "Lit Review"
+# README
 
-This is a collection of notes on literature (academic, news, etc.) relevant to various topics of interest to OFE.
+This repo--"Lit Review"--is a collection of notes on literature (academic, news, etc.) relevant to OFE's work.
 
-<br>
+"Pages" navigation:
 
-**Type**                                                       | **Last Updated**
----------------------------------------------------------------| ----------------
-[News](./main.md)                                              | some date   
-[Academic](./main.md)                                          | some date  
-[Other <br> (e.g., public agencies and nonprofits)](./main.md) | some date  
+* [Main page](./index.md)   
+* [News articles - archive](./archive.md)                                                
+* [Academic papers - archive](./archive.md)                                            
+* [Other Publications (e.g., reports from public agencies and nonprofits) - archive](./archive.md)    
