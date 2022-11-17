@@ -1,10 +1,7 @@
 # Lit Review 📚
 
-<br>
+A collection of notes on literature (academic, news, etc.) relevant to OFE's work.    
 
-A collection of notes on literature (academic, news, etc.) relevant to OFE's work.
-
-<br>
 
 | CONTENTS                                                                               | 
 | -------------------------------------------------------------------------------------- |
