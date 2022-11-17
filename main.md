@@ -1,4 +1,4 @@
-*[Back to home page](./README.md)*
+*[Main page](/./index.md)*
 
 ---
 
