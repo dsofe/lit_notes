@@ -10,7 +10,7 @@ list of all stuff
 
 [News](#news)  
 [Academic](#academic)  
-[Other](#other)  
+[Other (e.g., reports from public agencies and nonprofit organizations)](#other)  
 
 ## News
 
