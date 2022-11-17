@@ -4,13 +4,19 @@
 
 <br>
 
-Main page for navigation
+This is a collection of notes on literature (academic, news, etc.) relevant to various topics of interest to OFE.
 
-list of all stuff
+<br>
 
-[News](#news)  
-[Academic](#academic)  
-[Other (e.g., reports from public agencies and nonprofit organizations)](#other)  
+# Contents
+
+## [News](#news)  
+## [Academic](#academic)  
+## [Other (e.g., reports from public agencies and nonprofit organizations)](#other)  
+
+<br>
+<br>
+<br>
 
 ## News
 
