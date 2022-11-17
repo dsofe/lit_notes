@@ -1,7 +1,5 @@
 *[Back to home page](./README.md)*
 
-> [dashboard](./equity-dashboard-20220803.html)
-
 ---
 
 <br>
@@ -10,9 +8,9 @@ Main page for navigation
 
 list of all stuff
 
-Journalism (#anchior-link)  
-Academic (#anchor-link)  
-Other (#anchor-link)  
+News (#news)  
+Academic (#academic)  
+Other (#other)  
 
 ## News
 
