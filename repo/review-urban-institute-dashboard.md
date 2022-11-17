@@ -1,13 +1,8 @@
 // Sharing some information on the Urban Institute's financial health dashboard and their presentation of it via a virtual event that was held. You can find links to the recording and the slides below.
 
-*[Main page](/./main.md)*
+*[Main page](/./index.md)*
 
 ---
-
-<br>
-
-## "BNPL Versus Payday Lending: All Consumer Debt Is Not Created Equal"
-> [Article link](https://www.forbes.com/sites/forbesfinancecouncil/2022/06/01/bnpl-versus-payday-lending-all-consumer-debt-is-not-created-equal/?sh=389b2d0025a9)
 
 <br>
 
