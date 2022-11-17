@@ -1,5 +1,5 @@
 # "Lit Review"
 
-* [News](./main.md)                                                
-* [Academic](./main.md)                                            
-* [Other <br> (e.g., public agencies and nonprofits)](./main.md) 
+* [News](./archive.md)                                                
+* [Academic](./archive.md)                                            
+* [Other Publications] (e.g., reports from public agencies and nonprofits)](./archive.md) 
