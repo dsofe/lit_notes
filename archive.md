@@ -4,21 +4,18 @@
 
 <br>
 
-This is a collection of notes on literature (academic, news, etc.) relevant to various topics of interest to OFE.
+# ARCHIVE   
 
-<br>
+- ### [News](#news)  
+- ### [Academic](#academic)  
+- ### [Other (e.g., reports from public agencies and nonprofit organizations)](#other)  
 
-# Contents
+<hr>
 
-## [News](#news)  
-## [Academic](#academic)  
-## [Other (e.g., reports from public agencies and nonprofit organizations)](#other)  
-
-<br>
 <br>
 <br>
 
-## News
+### News
 
 *Organized by most recent summary, with newest post in __bold__*
 
@@ -30,7 +27,7 @@ This is a collection of notes on literature (academic, news, etc.) relevant to v
 
 <br>
 
-## Academic
+### Academic
 
 *Organized by most recent summary, with newest post in __bold__*
 
@@ -40,8 +37,8 @@ This is a collection of notes on literature (academic, news, etc.) relevant to v
 
 <br>
 
-## Other 
-#### (including reports from public agencies and nonprofit organizations)
+### Other 
+**(e.g., reports from public agencies and nonprofit organizations)**
 
 <br>
 
