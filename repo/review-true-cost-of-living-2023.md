@@ -12,7 +12,7 @@ To determine if a household has adequate or inadequate income, a household’s t
 
 Basically...
 
-`Adequate income = Household income > NYC TCL`, and 
+`Adequate income = Household income > NYC TCL`, and     
 `Inadequate income = Household income < NYC TCL`    
 
 ### Select findings from the report:    
