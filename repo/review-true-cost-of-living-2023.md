@@ -12,7 +12,8 @@ To determine if a household has adequate or inadequate income, a household’s t
 
 Basically...
 
-`Adequate income = Household income > NYC TCL`, and `Inadequate income = Household income < NYC TCL`    
+`Adequate income = Household income > NYC TCL`, and 
+`Inadequate income = Household income < NYC TCL`    
 
 <br>  
 
@@ -44,4 +45,4 @@ Basically...
 - Morris Heights, Fordham South & Mount Hope (Bronx)  
 - Concourse, Highbridge & Mount Eden (Bronx)    
 
-> Note: These neighborhoods are also considered *at risk* by OFE Research
+> &rightarrow; Note: These neighborhoods are also considered *at risk* by OFE Research
