@@ -15,8 +15,6 @@ Basically...
 `Adequate income = Household income > NYC TCL`, and 
 `Inadequate income = Household income < NYC TCL`    
 
-<br>  
-
 ### Select findings from the report:    
 
 **Highlights**   
