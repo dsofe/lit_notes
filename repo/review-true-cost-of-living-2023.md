@@ -43,4 +43,4 @@ Basically...
 - Morris Heights, Fordham South & Mount Hope (Bronx)  
 - Concourse, Highbridge & Mount Eden (Bronx)    
 
-> &rightarrow; Note: These neighborhoods are also considered *at risk* by OFE Research
+&rightarrow; Note: These neighborhoods are also considered *at risk* by OFE Research
