@@ -21,7 +21,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 -	Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) in the 50 states and the District of Columbia    
 -	Launched in 2016    
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
-- 2021 survey: administered from 09/2021–11/2021; 10,914 respondents  
+- **2021 survey:** administered from 09/2021–11/2021; 10,914 respondents  
   - Asian-owned firms, *n* = 983
   - Black-owned firms, *n* = 1,775
   - Hispanic-owned firms, *n* = 133 
