@@ -18,7 +18,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 #### About the Small Business Credit Survey   
 
--	Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) in the 50 states and the District of Columbia    
+-	Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) across the nation (the 50 states and the District of Columbia)         
 -	Launched in 2016    
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2021 survey:** administered from 09/2021–11/2021; 10,914 respondents  
