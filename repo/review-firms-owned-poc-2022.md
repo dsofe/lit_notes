@@ -39,6 +39,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 ### Resources
 
-•	[2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)
-•	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/report-on-firms-owned-by-people-of-color-2022.xls?sc_lang=en&hash=08955907C81808388FC14EA572DE94E0) (direct download, XLSX)
-•	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF) 
+•	[2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)   
+•	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/report-on-firms-owned-by-people-of-color-2022.xls?sc_lang=en&hash=08955907C81808388FC14EA572DE94E0) (direct download, XLSX)    
+•	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF)    
