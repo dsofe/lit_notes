@@ -1,6 +1,6 @@
 <br>
 
-## Fed Small Business's *2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey* (2023)
+## Fed Small Business's *2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey*
 
 > [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB)  
 
