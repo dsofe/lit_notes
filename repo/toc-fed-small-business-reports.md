@@ -4,14 +4,14 @@
 
 ### 2023
 
-> [Summary: *Report...*](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB)  
+> [Summary: *Report...*](https://dsofe.github.io/lit_notes/repo/review-employer-firms-2023.html)  
 // github link
 
 
 ### 2022
 
-> [Summary: *Report...Nonemployer*](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB)  
+> [Summary: *Report...Nonemployer*](https://dsofe.github.io/lit_notes/repo/review-nonemployer-firms-2023.html)  
 // github link; relates to self employed
 
-> [Summary: *Report...People of Color*](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB)  
+> [Summary: *Report...People of Color*](https://dsofe.github.io/lit_notes/repo/review-firms-owned-poc-2022.html)  
 // github link
