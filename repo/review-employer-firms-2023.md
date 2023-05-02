@@ -31,11 +31,15 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 ### Select findings on NYS and NY MSA firms from the report:
 
-&#10148; Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.     
-&#10148; Asian- and Black-owned firms were more than twice as likely as white-owned firms to be in poor financial condition at the time of the survey.    
-&#10148; Black-owned firms were more likely than others to say credit availability was a concern.   
-&#10148; Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.   
-&#10148; When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.   
+&#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**    
+
+&#10148; **Asian- and Black-owned firms were more than twice as likely as white-owned firms to be in poor financial condition at the time of the survey.**      
+
+&#10148; **Black-owned firms were more likely than others to say credit availability was a concern.**   
+
+&#10148; **Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.**   
+
+&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**   
 
 ### Resources
 
