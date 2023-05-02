@@ -29,7 +29,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
 
 
-### Select findings on NYS and NY MSA firms from the report:
+### Select findings on NYS and NY MSA firms:
 
 &#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**    
 
@@ -40,6 +40,22 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.**   
 
 &#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**   
+
+
+### Select findings on firms by gender and race/ethnicity of owners:
+
+&rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
+
+&rarr; *Pctg. of firms relying on personal savings or funds from friends and family:*  
+  - Race/ethnicity
+    - Black-owned, 79%    
+    - Hispanic-owned, 72%   
+    - Asian-owned, 70%    
+    - White-owned, 65%    
+    - American Indian or Alaskan Native-owned, 56%    
+  - Gender    
+    - Women-owned, 74%    
+    - Men-owned, 64%    
 
 ### Resources
 
