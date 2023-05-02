@@ -45,11 +45,11 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; <b>Among firms _with_ debt, Black- and Hispanic-owned firms had the highest share of businesses with <ins><</ins>$50,000 in debt, while Asian- and White-owned firms had the highest share of businesses with debt >$50,000.</b>        
 
-&#10148; **Black-owned firms were the most likely to say credit availability was a concern.**     
+&#10148; **Black-owned firms were the most likely to say credit availability was a concern.**      
 
 &#10148; **Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.**     
 
-&#10148; When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing. 
+&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**  
 
 &rarr; Regardless of the type of lender (i.e., small bank, large bank, online lender, finance company), firms owned by people of color (as a group) were less likely to be fully approved than White-owned firms; and rates of denial were higher for firms owned by people of color, compared to White-owned firms, across all types of lenders.
 
@@ -85,7 +85,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
  
 &rarr; Black- and Hispanic-owned firms (33% and 29%, respectively) were more likely than White- and Asian-owned firms (23% and 20%, respectively) to turn to online lenders   
   
-&#10148; For firms that did not apply for financing (in the previous year), reasons varied across the groups:   
+&#10148; **For firms that did not apply for financing (in the previous year), reasons varied across the groups:**     
 
 &rarr; *Top reasons for not applying for financing:*      
   - White-owned firms, 50%--"had sufficient funding"    
