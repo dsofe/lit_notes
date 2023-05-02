@@ -41,27 +41,45 @@ This report from Fed Small Business describes data, collected by the Small Busin
  
 &#10148; Asian- and Black-owned firms (39% and 36% of firms, respectively) were more than twice as likely as white-owned firms (17%) to be in *poor* financial condition at the time of the survey.   
 
-&#10148; Black-owned firms were more likely than others to say credit availability was a concern.   
+&#10148; Black-owned firms were the most likely to say credit availability was a concern.   
 
 &#10148; Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.   
-
-&#10148; PPP: Among the firms  owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought. //strike?      
 
 &#10148; When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing. 
 
 &rarr; Regardless of the type of lender (i.e., small bank, large bank, online lender, finance company), firms owned by people of color (as a group) were less likely to be fully approved than White-owned firms; and rates of denial were higher for firms owned by people of color, compared to White-owned firms, across all types of lenders.
 
-&rarr; *Pctg. of firms that applied to small banks:*  
-  - 38%, Asian-owned    
-  - 37% White-owned   
-  - 28%, Black-owned   
-  - 24%, Hispanic-owned   
+&rarr; *Pctg. of firms approved for full financing, by type of lender:*  
+  - Large bank
+    - White-owned firms, 35%
+    - Firms of color, 20%
+  - Small bank
+    - White-owned firms, 50%
+    - Firms of color, 26% 
+  - Online lender
+    - White-owned firms, 31%
+    - Firms of color, 24% 
+  - Finance company
+    - White-owned firms, 56%
+    - Firms of color, 22% 
 
-&rarr; *Pctg. of firms that applied to online lenders:*    
-  - 33%, Black-owned    
-  - 29% Hispanic-owned   
-  - 23%, White-owned   
-  - 20%, Asian-owned   
+&rarr; *Pctg. of firms that were denied financing, by type of lender*    
+  - Large bank
+    - Firms of color, 61%
+    - White-owned firms, 51%
+  - Small bank
+    - Firms of color, 55%
+    - White-owned firms, 30%
+  - Online lender
+    - Firms of color, 59%
+    - White-owned firms, 46%
+  - Finance company
+    - Firms of color, 52%
+    - White-owned firms, 24%
+ 
+&rarr; Asian- and White-owned firms (38% and 37%, respectively) were more likely than Black- and Hispanic-owned firms (28% and 24%, respectively) to apply to small banks  
+ 
+&rarr; Black- and Hispanic-owned firms (33% and 29%, respectively) were more likely than White- and Asian-owned firms (23% and 20%, respectively) to turn to online lenders   
 
 
 ### Resources
@@ -69,9 +87,3 @@ This report from Fed Small Business describes data, collected by the Small Busin
 •	[2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)   
 •	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/report-on-firms-owned-by-people-of-color-2022.xls?sc_lang=en&hash=08955907C81808388FC14EA572DE94E0) (direct download, XLSX)    
 •	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF)    
-
-&rarr; *Pctg. of firms reporting to be in <ins>poor</ins> financial condition:*    
-  - 39%, Asian-owned    
-  - 36% Black-owned   
-  - 28%, Hispanic-owned   
-  - 17%, White-owned    
