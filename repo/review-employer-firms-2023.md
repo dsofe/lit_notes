@@ -57,6 +57,16 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Women-owned, 74%    
     - Men-owned, 64%    
 
+// FINANCING APPLICATIONS
+&rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
+
+&rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
+  - Race/ethnicity
+    - Black-owned, 20% (v. 34%)    
+    - Hispanic-owned, 38% (v. 46%)   
+    - Asian-owned, 33% (v. 46%)   
+    - White-owned, 58% (v. 66%)     
+
 ### Resources
 
 -	[Small Business Credit Survey 2023 Report on Employer Firms]() (direct download, PDF)
