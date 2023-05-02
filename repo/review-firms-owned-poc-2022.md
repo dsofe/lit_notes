@@ -43,7 +43,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **The share of firms *without* debt ranged from 22%-32% (across all groups).**  
 
-&#10148; <b>Among firms _with_ debt, Black- and Hispanic-owned firms had the highest share of businesses with <ins><</ins>$50,000 in debt, while Asian- and White-owned firms had the highest share of businesses with debt >$50,000.</b>        
+&#10148; **Among firms _with_ debt, Black- and Hispanic-owned firms had the highest share of businesses with &le;$50,000 in debt, while Asian- and White-owned firms had the highest share of businesses with debt \>$50,000.**       
 
 &#10148; **Black-owned firms were the most likely to say credit availability was a concern.**      
 
