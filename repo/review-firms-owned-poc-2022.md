@@ -39,9 +39,18 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - 67%, Hispanic-owned   
   - 59%, White-owned    
  
-&#10148; Asian- and Black-owned firms (39% and 36% of firms, respectively) were more than twice as likely as white-owned firms (17%) to be in *poor* financial condition at the time of the survey.    
+&#10148; Asian- and Black-owned firms (39% and 36% of firms, respectively) were more than twice as likely as white-owned firms (17%) to be in *poor* financial condition at the time of the survey.   
+
+&rarr; *Pctg. of firms reporting to be in <ins>poor</ins> financial condition:*    
+  - 39%, Asian-owned    
+  - 36% Black-owned   
+  - 28%, Hispanic-owned   
+  - 17%, White-owned    
+
 &#10148; Black-owned firms were more likely than others to say credit availability was a concern.   
+
 &#10148; Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.   
+
 &#10148; When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.   
 
 ### Resources
