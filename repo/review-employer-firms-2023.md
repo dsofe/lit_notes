@@ -64,7 +64,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**   
 
 
-### Select demographic data on firm ownership and findings from report:
+### Select national data on firm ownership demographics and findings from report:
 
 &#10148; **Gender *and* race/ethnicity ownership data.**    
 
