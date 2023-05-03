@@ -56,7 +56,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Gender    
     - Women-owned, 74%    
     - Men-owned, 64%
-    - *Equally-owned, data not available*    
+    - *Equally-owned, data not available/cannot be calculated*    
 
 &rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
@@ -65,11 +65,15 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Black-owned, 20% (v. 34%)    
     - Hispanic-owned, 38% (v. 46%)   
     - Asian-owned, 33% (v. 46%)   
-    - White-owned, 58% (v. 66%)     
+    - White-owned, 58% (v. 66%)  
+  - Gender    
+    - Women-owned, 55%    
+    - Men-owned, 45%
+    - Equally-owned, 55%    
 
 ### Resources
 
--	[Small Business Credit Survey 2023 Report on Employer Firms]() (direct download, PDF)
--	[2022 Survey data appendix]() (direct download, XLSX)
--	[2022 Survey questionnaire]() (direct download, PDF) 
+-	[Small Business Credit Survey 2023 Report on Employer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF)
+-	[2022 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/sbcs-employer-firms-appendix-2022_03082023.xlsx) (direct download, XLSX)
+-	[2022 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2022_sbcs-questionnaire.pdf) (direct download, PDF) 
    
