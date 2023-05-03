@@ -6,8 +6,10 @@
 
 ### Background
 
-This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2022, on small business employer firms.  
+This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business nonemployer firms.  
 
+> &rarr; **A note on "smaller" v. "larger" nonemployer firms:** "Smaller" firms are those reporting <$100,000 in annual revenues; "larger" firms are those reporting &ge;$100,000 in annual revenues. 
+> 
 > &rarr; **A note on data by geography:** Data on small businesses in NYC alone are not presented; there are data only for New York State (*n* = 296) or the New York-Newark-Jersey City, NY-NJ-PA, Metropolitan Statistical Area (*n* = 706).  
 > 
 > &rarr; **A note on data by race/ethnicity:** Preliminary data by race/ethnicity is available; additional insights on firms owned by people of color will be shared when the 2023 report is released later this year.   
