@@ -19,8 +19,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
 #### About the Small Business Credit Survey   
 
 - Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) across the nation (the 50 states and the District of Columbia)
--	Launched in 2016    
--	Aim is to understand the financing, debt needs, and experiences of small business owners    
+- Launched in 2016    
+- Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
 ### Select findings on firms in the <ins>New York Metropolitan Statistical Area</ins>: A snapshot of equity, diversity, and inclusion
@@ -87,7 +87,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **Immigrant ownership data.**
 
-&rarr; *Pctg. of firms majority-owned by immigrants:*  
+&rarr; *Pctg. of firms by race/ethnicity and gender that were majority-owned by immigrants:*  
   - by race/ethnicity
     - Asian-owned, 49%      
     - Hispanic-owned, 38%      
@@ -99,16 +99,9 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Women-owned, 18%      
     - Equally-owned, 8%      
 
-&#10148; **Gender *and* LGBTQ ownership data.**
-
-&rarr; *Pctg. of firms with owner(s) who is a member of LGBTQ community, for each type of gender ownership:*  
-  - Women-owned, 9%  
-  - Men-owned, 8%      
-  - Equally-owned, 1%     
-
 &#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
-&rarr; *Pctg. of firms relying on personal savings or funds from friends and family:*  
+&rarr; *Pctg. of firms that relied on personal savings or funds from friends and family:*  
   - Race/ethnicity
     - Black-owned, 79%    
     - Hispanic-owned, 72%   
