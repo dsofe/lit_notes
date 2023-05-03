@@ -10,7 +10,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 > &rarr; **A note on data by geography:** Data on small businesses in NYC alone is not shown; data are provided only for New York State (n = 296) or the New York-Newark-Jersey City, NY-NJ-PA, Metropolitan Statistical Area (n = 706).  
 > 
-> &rarr; **A note on data by race/ethnicity:** Data by race/ethnicity is available but the weights used for analysis is not available; insights on firms owned by people of color will be shared when that 2023 report is released later this year.   
+> &rarr; **A note on data by race/ethnicity:** Preliminary data by race/ethnicity is available; additional insights on firms owned by people of color will be shared when the 2023 report is released later this year.   
 
 #### About Fed Small Business   
 
@@ -59,7 +59,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Black-owned, 1%   
     - Hispanic-owned, 5%      
     - White-owned, 84%  
-
 
 &#10148; **Immigrant ownership data.**
 
