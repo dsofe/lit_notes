@@ -2,7 +2,7 @@
 
 ## Fed Small Business's *2023 Report on Employer Firms: Findings from the 2022 Small Business Credit Survey*
 
-> [Link to report](https://www.fedsmallbusiness.org/survey/2023/report-on-employer-firms)  
+> [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF) 
 
 ### Background
 
