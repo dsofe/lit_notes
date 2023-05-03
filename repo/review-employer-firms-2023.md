@@ -23,7 +23,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
-### Select findings on firms in the New York Metropolitan Statistical Area:
+### Select findings on firms in the New York Metropolitan Statistical Area: A snapshot of equity
 
 &#10148; **Demographic data on firm ownership.**    
     
@@ -41,7 +41,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Immigrant ownership    
     - Majority-owned, 28%    
 
-### Select national data on firm ownership demographics and findings from report:
+### Select national data on firm ownership demographics and findings from report: A snapshot of equity
 
 &#10148; **Gender *and* race/ethnicity ownership data.**    
 
