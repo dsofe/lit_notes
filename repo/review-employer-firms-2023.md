@@ -23,25 +23,45 @@ This report from Fed Small Business describes data, collected by the Small Busin
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
-### Select findings on firms in the New York Metropolitan Statistical Area: A snapshot of equity
+### Select findings on firms in the <ins>New York Metropolitan Statistical Area</ins>: A snapshot of equity, diversity, and inclusion
 
 &#10148; **Demographic data on firm ownership.**    
     
-&rarr; *Pctg. of firms by gender, race/ethnicity, and immigrant ownership:*  
+&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
   - Race/ethnicity of ownership
     - White-owned, 67%    
     - Hispanic-owned, 15%   
     - Black-owned, 9%    
     - Asian-owned, 9%    
-    - American Indian or Alaskan Native-owned, 56%    
+    - American Indian or Alaskan Native-owned, 0%    
   - Gender of ownership    
     - Men-owned, 67%    
     - Women-owned, 23%
     - Equally-owned, 9%   
   - Immigrant ownership    
-    - Majority-owned, 28%    
+    - Majority-owned, 28% 
+  - LGBTQ ownership    
+    - Majority-owned, 5%    
 
-### Select national data on firm ownership demographics and findings from report: A snapshot of equity
+### Select <ins>national</ins> data on firm ownership demographics and findings from report: A snapshot of equity, diversity, and inclusion
+
+&#10148; **Demographic data on firm ownership.**    
+
+&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
+  - Race/ethnicity of ownership
+    - White-owned, 81%     
+    - Asian-owned, 11%    
+    - Hispanic-owned, 6%  
+    - Black-owned, 2%    
+    - American Indian or Alaskan Native-owned, 0%    
+  - Gender of ownership    
+    - Men-owned, 64%    
+    - Women-owned, 22%
+    - Equally-owned, 14%   
+  - Immigrant ownership    
+    - Majority-owned, 17% 
+  - LGBTQ ownership    
+    - Majority-owned, 7%    
 
 &#10148; **Gender *and* race/ethnicity ownership data.**    
 
