@@ -55,9 +55,9 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - American Indian or Alaskan Native-owned, 56%    
   - Gender    
     - Women-owned, 74%    
-    - Men-owned, 64%    
+    - Men-owned, 64%
+    - *Equally-owned, data not available*    
 
-// FINANCING APPLICATIONS
 &rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
 &rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
