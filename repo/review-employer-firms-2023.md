@@ -41,29 +41,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Immigrant ownership    
     - Majority-owned, 28%    
 
-&#10148; **Black-owned firms were more likely than others to say credit availability was a concern.**   # EDIT       
-
-&rarr; *Pctg. of firms relying on personal savings or funds from friends and family:*  # EDIT  
-  - Race/ethnicity of ownership
-    - Black-owned, 79%    
-    - Hispanic-owned, 72%   
-    - Asian-owned, 70%    
-    - White-owned, 65%    
-    - American Indian or Alaskan Native-owned, 56%    
-  - Gender of ownership    
-    - Women-owned, 74%    
-    - Men-owned, 64%
-    - *Equally-owned, data not available/cannot be calculated*   
-  - Immigrant ownership    
-    - Women-owned, 74%    
-    - Men-owned, 64%
-    - *Equally-owned, data not available/cannot be calculated*   
-
-&#10148; **Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.**   
-
-&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**   
-
-
 ### Select national data on firm ownership demographics and findings from report:
 
 &#10148; **Gender *and* race/ethnicity ownership data.**    
