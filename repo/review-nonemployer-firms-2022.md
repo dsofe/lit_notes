@@ -1,1 +1,134 @@
+<br>
+
+## Fed Small Business's *2022 Report on Nonmployer Firms: Findings from the 2022 Small Business Credit Survey*
+
+> [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-nonemployer-firms.pdf?sc_lang=en&hash=72E038B7A92A51CE35ADBD66C8DBEB12) (direct download, PDF) 
+
+### Background
+
+This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2022, on small business employer firms.  
+
+> &rarr; **A note on data by geography:** Data on small businesses in NYC alone are not presented; there are data only for New York State (*n* = 296) or the New York-Newark-Jersey City, NY-NJ-PA, Metropolitan Statistical Area (*n* = 706).  
+> 
+> &rarr; **A note on data by race/ethnicity:** Preliminary data by race/ethnicity is available; additional insights on firms owned by people of color will be shared when the 2023 report is released later this year.   
+
+#### About Fed Small Business   
+
+- Conducts small business research and analysis for the Federal Reserve System.       
+
+#### About the Small Business Credit Survey   
+
+- Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) across the nation (the 50 states and the District of Columbia)
+- Launched in 2016    
+- Aim is to understand the financing, debt needs, and experiences of small business owners    
+- **2021 survey:** administered from 09/2022&ndash;11/2022; 6,834 respondents    
+
+### Select findings on firms in the <ins>New York Metropolitan Statistical Area</ins>: A snapshot of equity, diversity, and inclusion
+
+&#10148; **Demographic data on firm ownership.**    
+    
+&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
+  - Race/ethnicity of ownership
+    - White-owned, 67%    
+    - Hispanic-owned, 15%   
+    - Black-owned, 9%    
+    - Asian-owned, 9%    
+    - American Indian or Alaskan Native-owned, 0%    
+  - Gender of ownership    
+    - Men-owned, 67%    
+    - Women-owned, 23%
+    - Equally-owned, 9%   
+  - Immigrant ownership    
+    - Majority-owned, 28% 
+  - LGBTQ ownership    
+    - Majority-owned, 5%    
+
+### Select <ins>national</ins> data on firm ownership demographics and findings from report: A snapshot of equity, diversity, and inclusion
+
+&#10148; **Demographic data on firm ownership.**    
+
+&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
+  - Race/ethnicity of ownership
+    - White-owned, 81%     
+    - Asian-owned, 11%    
+    - Hispanic-owned, 6%  
+    - Black-owned, 2%    
+    - American Indian or Alaskan Native-owned, 0%    
+  - Gender of ownership    
+    - Men-owned, 64%    
+    - Women-owned, 22%
+    - Equally-owned, 14%   
+  - Immigrant ownership    
+    - Majority-owned, 17% 
+  - LGBTQ ownership    
+    - Majority-owned, 7%    
+
+&#10148; **Gender *and* race/ethnicity ownership data.**    
+
+&rarr; *Pctg. of firms by race/ethnicity for each type of gender ownership:*  
+  - Women-owned   
+    - White-owned, 77%  
+    - Asian-owned, 12%      
+    - Black-owned, 4%   
+    - Hispanic-owned, 8%      
+    - American Indian or Alaskan Native-owned, 0%    
+  - Men-owned      
+    - White-owned, 82%  
+    - Asian-owned, 10%      
+    - Hispanic-owned, 6%  
+    - Black-owned, 2%         
+    - American Indian or Alaskan Native-owned, 0%   
+  - Equally-owned   
+    - White-owned, 84%  
+    - Asian-owned, 10%      
+    - Hispanic-owned, 5%          
+    - Black-owned, 1%   
+    - American Indian or Alaskan Native-owned, 0%    
+
+&#10148; **Immigrant ownership data.**
+
+&rarr; *Pctg. of firms by race/ethnicity and gender that were majority-owned by immigrants:*  
+  - by race/ethnicity
+    - Asian-owned, 49%      
+    - Hispanic-owned, 38%      
+    - Black-owned, 26%   
+    - American Indian or Alaskan Native-owned, 14%    
+    - White-owned, 11%    
+  - by gender    
+    - Men-owned, 19%  
+    - Women-owned, 18%      
+    - Equally-owned, 8%      
+
+&#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
+
+&rarr; *Pctg. of firms that relied on personal savings or funds from friends and family:*  
+  - Race/ethnicity
+    - Black-owned, 79%    
+    - Hispanic-owned, 72%   
+    - Asian-owned, 70%    
+    - White-owned, 65%    
+    - American Indian or Alaskan Native-owned, 56%    
+  - Gender    
+    - Women-owned, 74%    
+    - Men-owned, 64%
+    - *Equally-owned, data not available/cannot be calculated*    
+
+&#10148; **Although financing approval rates have declined from pre-pandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
+
+&rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
+  - Race/ethnicity
+    - White-owned, 58% (v. 66%)          
+    - Hispanic-owned, 38% (v. 46%)   
+    - Asian-owned, 33% (v. 46%)     
+    - Black-owned, 20% (v. 34%)   
+  - Gender    
+    - Equally-owned, 55%     
+    - Men-owned, 55%        
+    - Women-owned, 45%  
+
+### Resources
+
+-	[Small Business Credit Survey 2023 Report on Nonmployer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-nonemployer-firms.pdf?sc_lang=en&hash=72E038B7A92A51CE35ADBD66C8DBEB12) (direct download, PDF)
+-	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/sbcs-nonemployer-firms-appendix-2021.xlsx?sc_lang=en&hash=A43B603EC8076D6B090AE3908149341B) (direct download, XLSX)
+-	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF)  
 
