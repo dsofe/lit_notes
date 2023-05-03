@@ -6,7 +6,7 @@
 
 ### Background
 
-This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business employer firms by race/ethnicity. It highlights the financial and operational challenges that business owners experienced. (Employer firms are defined as *businesses with 1 to 499 employees other than the owners*.)
+This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business employer firms by race/ethnicity; in some cases, data on firms owned by "people of color," representing a group of race/ethnicity categories, is presented against White-owned firms. It highlights the financial and operational challenges that business owners experienced. (Employer firms are defined as *businesses with 1 to 499 employees other than the owners*.)
 
 > &rarr; **A note on data by race/ethnicity:** Data are analyzed using only four categories: <ins>Asian or Pacific Islander</ins> (referenced as “Asian”); <ins>Black or African American</ins> (referenced as “Black”); <ins>Hispanic or Latino</ins> (referenced as “Hispanic”); and <ins>White</ins>. The report excludes data for <ins>Native American</ins> firms because of the small sample.
 >   
