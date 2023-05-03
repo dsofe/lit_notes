@@ -41,7 +41,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
  
 &#10148; **Asian- and Black-owned firms (39% and 36% of firms, respectively) were more than twice as likely as white-owned firms (17%) to be in *poor* financial condition at the time of the survey.**     
 
-&#10148; **The share of firms *without* debt ranged from 22%-32% (across all groups).**  
+&#10148; **The share of firms *without* debt ranged from 22%&ndash;32% (across all groups).**  
 
 &#10148; **Among firms _with_ debt, Black- and Hispanic-owned firms had the highest share of businesses with &le;$50,000 in debt, while Asian- and White-owned firms had the highest share of businesses with debt \>$50,000.**       
 
