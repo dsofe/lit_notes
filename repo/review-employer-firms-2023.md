@@ -23,20 +23,48 @@ This report from Fed Small Business describes data, collected by the Small Busin
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
-### Select findings on NYS and NY MSA firms:
+### Select findings on firms in the New York Metropolitan Statistical Area:
 
-&#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**    
+&#10148; **Demographic data on firm ownership.**    
+    
+&rarr; *Pctg. of firms by gender, race/ethnicity, and immigrant ownership:*  
+  - Race/ethnicity of ownership
+    - White-owned, 67%    
+    - Hispanic-owned, 15%   
+    - Black-owned, 9%    
+    - Asian-owned, 9%    
+    - American Indian or Alaskan Native-owned, 56%    
+  - Gender of ownership    
+    - Men-owned, 67%    
+    - Women-owned, 23%
+    - Equally-owned, 9%   
+  - Immigrant ownership    
+    - Majority-owned, 28%    
 
-&#10148; **Asian- and Black-owned firms were more than twice as likely as white-owned firms to be in poor financial condition at the time of the survey.**      
+&#10148; **Black-owned firms were more likely than others to say credit availability was a concern.**   # EDIT       
 
-&#10148; **Black-owned firms were more likely than others to say credit availability was a concern.**   
+&rarr; *Pctg. of firms relying on personal savings or funds from friends and family:*  # EDIT  
+  - Race/ethnicity of ownership
+    - Black-owned, 79%    
+    - Hispanic-owned, 72%   
+    - Asian-owned, 70%    
+    - White-owned, 65%    
+    - American Indian or Alaskan Native-owned, 56%    
+  - Gender of ownership    
+    - Women-owned, 74%    
+    - Men-owned, 64%
+    - *Equally-owned, data not available/cannot be calculated*   
+  - Immigrant ownership    
+    - Women-owned, 74%    
+    - Men-owned, 64%
+    - *Equally-owned, data not available/cannot be calculated*   
 
 &#10148; **Firms owned by people of color were more likely to apply for traditional financing than white-owned firms, but were less likely to receive the funding sought.**   
 
 &#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**   
 
 
-### Select findings on firms by gender and race/ethnicity of owners:
+### Select demographic data on firm ownership and findings from report:
 
 &#10148; **Gender *and* race/ethnicity ownership data.**    
 
@@ -59,7 +87,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Hispanic-owned, 5%          
     - Black-owned, 1%   
     - American Indian or Alaskan Native-owned, 0%    
-
 
 &#10148; **Immigrant ownership data.**
 
@@ -96,7 +123,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 64%
     - *Equally-owned, data not available/cannot be calculated*    
 
-&#10148; **Although financing approval rates have declined from prepandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
+&#10148; **Although financing approval rates have declined from pre-pandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
 
 &rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
   - Race/ethnicity
@@ -113,12 +140,4 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 -	[Small Business Credit Survey 2023 Report on Employer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF)
 -	[2022 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/sbcs-employer-firms-appendix-2022_03082023.xlsx) (direct download, XLSX)
--	[2022 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2022_sbcs-questionnaire.pdf) (direct download, PDF) 
-   
-// IGNORE?
-
-  - Asian-owned firms, *n* = 983
-  - Black-owned firms, *n* = 1,775
-  - Hispanic-owned firms, *n* = 133 
-  - White-owned firms, *n* = 6,904
-  - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
+-	[2022 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2022_sbcs-questionnaire.pdf) (direct download, PDF)  
