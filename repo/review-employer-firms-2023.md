@@ -21,13 +21,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Annual online survey that uses a convenience sample of small businesses (or firms with fewer than 500 employees) across the nation (the 50 states and the District of Columbia)
 -	Launched in 2016    
 -	Aim is to understand the financing, debt needs, and experiences of small business owners    
-- **2021 survey:** administered from 09/08/22–11/18/22; 14,000 respondents    
-  - Asian-owned firms, *n* = 983
-  - Black-owned firms, *n* = 1,775
-  - Hispanic-owned firms, *n* = 133 
-  - White-owned firms, *n* = 6,904
-  - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
-
+- **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
 ### Select findings on NYS and NY MSA firms:
 
@@ -44,6 +38,29 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 ### Select findings on firms by gender and race/ethnicity of owners:
 
+&#10148; **Gender *and* race/ethnicity ownership data.**    
+
+&rarr; *Pctg. of firms by race/ethnicity for each type of gender ownership:*  
+  - Women-owned
+    - American Indian or Alaskan Native-owned, 0%    
+    - Asian-owned, 12%      
+    - Black-owned, 4%   
+    - Hispanic-owned, 8%      
+    - White-owned, 77%  
+   - Men-owned
+    - American Indian or Alaskan Native-owned, 0%    
+    - Asian-owned, 10%      
+    - Black-owned, 2%   
+    - Hispanic-owned, 6%      
+    - White-owned, 82%  
+   - Equally-owned
+    - American Indian or Alaskan Native-owned, 0%    
+    - Asian-owned, 10%      
+    - Black-owned, 1%   
+    - Hispanic-owned, 5%      
+    - White-owned, 84%  
+
+
 &#10148; **Immigrant ownership data.**
 
 &rarr; *Pctg. of firms majority-owned by immigrants:*  
@@ -57,6 +74,13 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 19%  
     - Women-owned, 18%      
     - Equally-owned, 8%      
+
+&#10148; **Gender *and* LGBTQ ownership data.**
+
+&rarr; *Pctg. of firms with owner(s) who is a member of LGBTQ community, for each type of gender ownership:*  
+  - Women-owned, 9%  
+  - Men-owned, 8%      
+  - Equally-owned, 1%     
 
 &#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
@@ -91,3 +115,10 @@ This report from Fed Small Business describes data, collected by the Small Busin
 -	[2022 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/sbcs-employer-firms-appendix-2022_03082023.xlsx) (direct download, XLSX)
 -	[2022 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2022_sbcs-questionnaire.pdf) (direct download, PDF) 
    
+// IGNORE?
+
+  - Asian-owned firms, *n* = 983
+  - Black-owned firms, *n* = 1,775
+  - Hispanic-owned firms, *n* = 133 
+  - White-owned firms, *n* = 6,904
+  - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
