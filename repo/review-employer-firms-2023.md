@@ -44,7 +44,21 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 ### Select findings on firms by gender and race/ethnicity of owners:
 
-&rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
+&#10148; **Immigrant ownership data.**
+
+&rarr; *Pctg. of firms majority-owned by immigrants:*  
+  - by race/ethnicity
+    - Asian-owned, 49%      
+    - Hispanic-owned, 38%      
+    - Black-owned, 26%   
+    - American Indian or Alaskan Native-owned, 14%    
+    - White-owned, 11%    
+  - by gender    
+    - Men-owned, 19%  
+    - Women-owned, 18%      
+    - Equally-owned, 8%      
+
+&#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
 &rarr; *Pctg. of firms relying on personal savings or funds from friends and family:*  
   - Race/ethnicity
@@ -58,18 +72,18 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 64%
     - *Equally-owned, data not available/cannot be calculated*    
 
-&rarr; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
+&#10148; **Although financing approval rates have declined from prepandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
 
 &rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
   - Race/ethnicity
-    - Black-owned, 20% (v. 34%)    
+    - White-owned, 58% (v. 66%)          
     - Hispanic-owned, 38% (v. 46%)   
-    - Asian-owned, 33% (v. 46%)   
-    - White-owned, 58% (v. 66%)  
+    - Asian-owned, 33% (v. 46%)     
+    - Black-owned, 20% (v. 34%)   
   - Gender    
-    - Women-owned, 55%    
-    - Men-owned, 45%
-    - Equally-owned, 55%    
+    - Equally-owned, 55%     
+    - Men-owned, 55%        
+    - Women-owned, 45%  
 
 ### Resources
 
