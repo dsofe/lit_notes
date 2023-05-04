@@ -69,7 +69,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - White-owned firms, 56%
     - Firms of color, 22% 
 
-&rarr; *Pctg. of firms that were denied financing by race/ethnicity among types of lenders*    
+&rarr; *Pctg. of firms that were denied financing by race/ethnicity among types of lenders:*    
 &ensp;&ensp; (% of firms <ins>denied</ins> in each racial/ethnic group under each type of lender is...)  
   - Large bank
     - Firms of color, 61%
@@ -84,9 +84,9 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Firms of color, 52%
     - White-owned firms, 24%
  
-&rarr; Asian- and White-owned firms (38% and 37%, respectively) were more likely than Black- and Hispanic-owned firms (28% and 24%, respectively) to apply to small banks  
+&rarr; Asian- and White-owned firms (38% and 37%, respectively) were more likely than Black- and Hispanic-owned firms (28% and 24%, respectively) to apply to small banks.     
  
-&rarr; Black- and Hispanic-owned firms (33% and 29%, respectively) were more likely than White- and Asian-owned firms (23% and 20%, respectively) to turn to online lenders   
+&rarr; Black- and Hispanic-owned firms (33% and 29%, respectively) were more likely than White- and Asian-owned firms (23% and 20%, respectively) to turn to online lenders.   
   
 &#10148; **For firms that did not apply for financing (in the previous year), reasons varied across the groups:**     
 
