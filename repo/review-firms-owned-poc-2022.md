@@ -4,7 +4,7 @@
 
 > [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)    
 
-### Background
+### BACKGROUND
 
 This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business employer firms by race/ethnicity; in some cases, data on firms owned by "people of color," representing a group of race/ethnicity categories, is presented against White-owned firms. It highlights the financial and operational challenges that business owners experienced. (Employer firms are defined as *businesses with 1 to 499 employees other than the owners*.)
 
@@ -29,7 +29,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
 
 
-### Select findings from the report:
+### SELECT FINDINGS FROM THE REPORT:
 
 &#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**      
 
@@ -93,7 +93,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Hispanic-owned firms, 26%--"had sufficient funding"   
   - Black-owned firms, 40%--"discouraged about their chances of approval"   
 
-### Resources
+### RESOURCES
 
 -	[2022 Report on Firms Owned by People of Color: Findings from the 2021 Small Business Credit Survey](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)   
 -	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/report-on-firms-owned-by-people-of-color-2022.xls?sc_lang=en&hash=08955907C81808388FC14EA572DE94E0) (direct download, XLSX)    
