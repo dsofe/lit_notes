@@ -33,7 +33,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**      
 
-&rarr; *Pctg. of firms reporting revenues lower than 2019 levels by race/ethnicity:*    
+&rarr; *Pctg. of firms reporting revenues lower than 2019 levels by race/ethnicity:*   
+&ensp;&ensp; (% of <ins>all</ins> firms that are...)
   - 79%, Asian-owned    
   - 72% Black-owned   
   - 67%, Hispanic-owned   
