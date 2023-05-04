@@ -28,6 +28,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - White-owned firms, *n* = 6,904
   - Native American-owned firms, *n* = 133 (<ins>excluded</ins> from report’s analysis)
 
+<br>   
 
 ### SELECT FINDINGS FROM THE REPORT:
 
@@ -96,6 +97,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Asian-owned firms, 34%--"debt averse"   
   - Hispanic-owned firms, 26%--"had sufficient funding"   
   - Black-owned firms, 40%--"discouraged about their chances of approval"   
+
+<br>   
 
 ### RESOURCES
 
