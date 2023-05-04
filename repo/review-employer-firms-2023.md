@@ -4,7 +4,7 @@
 
 > [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF) 
 
-### Background
+### BACKGROUND
 
 This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2022, on small business employer firms.  
 
@@ -23,7 +23,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2022 survey:** administered from 09/2022&ndash;11/2022; 7,864 respondents    
 
-### Select findings on firms in the <ins>New York Metropolitan Statistical Area</ins>: A snapshot of equity, diversity, and inclusion
+### SELECT FINDINGS ON FIRMS IN THE <ins>NEW YORK METROPOLITAN STATISTICAL AREA</ins>: A SNAPSHOT OF EQUITY, DIVERSITY, AND INCLUSION   
 
 &#10148; **Demographic data on firm ownership.**    
     
@@ -126,7 +126,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 55%        
     - Women-owned, 45%  
 
-### Resources
+### RESOURCES
 
 -	[Small Business Credit Survey 2023 Report on Employer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF)
 -	[2022 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/sbcs-employer-firms-appendix-2022_03082023.xlsx) (direct download, XLSX)
