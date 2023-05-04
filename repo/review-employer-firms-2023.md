@@ -2,9 +2,7 @@
 
 ## Fed Small Business's *2023 Report on Employer Firms: Findings from the 2022 Small Business Credit Survey*
 
-> [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF) 
-
-<br>
+> [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2023/2023_sbcs-employer-firms.pdf) (direct download, PDF)  
 
 ### BACKGROUND
 
@@ -46,6 +44,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Majority-owned by immigrant(s), 28% 
   - LGBTQ ownership (i.e., % of <ins>all</ins> firms that are...)      
     - Majority-owned by LGBTQ owner(s), 5%    
+
+<br>
 
 ### SELECT DATA AND FINDINGS ON FIRMS IN THE <ins>U.S.</ins>: A SNAPSHOT OF EQUITY, DIVERSITY, AND INCLUSION  
 
@@ -130,7 +130,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 55%        
     - Women-owned, 45%  
 
-<br>
+<br>  
 
 ### RESOURCES
 
