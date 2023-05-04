@@ -25,7 +25,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2021 survey:** administered from 09/2022&ndash;11/2022; 6,834 respondents    
 
-### Select findings on firms in the <ins>New York Metropolitan Statistical Area</ins>: A snapshot of equity, diversity, and inclusion
+### Select <ins>New York Metropolitan Statistical Area</ins> data on firm ownership demographics: A snapshot of equity, diversity, and inclusion
 
 &#10148; **Demographic data on firm ownership.**    
     
@@ -43,7 +43,10 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Immigrant ownership    
     - Majority-owned, 28% 
   - LGBTQ ownership    
-    - Majority-owned, 5%    
+    - Majority-owned, 5%   
+
+
+#### // select "findings on firms in the"
 
 ### Select <ins>national</ins> data on firm ownership demographics and findings from report: A snapshot of equity, diversity, and inclusion
 
@@ -68,17 +71,17 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Gender *and* race/ethnicity ownership data.**    
 
 &rarr; *Pctg. of firms by race/ethnicity for each type of gender ownership:*  
-  - Women-owned   
-    - White-owned, 77%  
-    - Asian-owned, 12%      
-    - Black-owned, 4%   
-    - Hispanic-owned, 8%      
-    - American Indian or Alaskan Native-owned, 0%    
-  - Men-owned      
-    - White-owned, 82%  
-    - Asian-owned, 10%      
-    - Hispanic-owned, 6%  
-    - Black-owned, 2%         
+  - Women-owned        
+    - White-owned, 64%  
+    - Hispanic-owned, 15%   
+    - Black-owned, 14%      
+    - American Indian or Alaskan Native-owned, 0%      
+    - Asian-owned, 7%   
+  - Men-owned or equally-owned      
+    - White-owned, 70%  
+    - Hispanic-owned, 14%  
+    - Asian-owned, 8%      
+    - Black-owned, 8%         
     - American Indian or Alaskan Native-owned, 0%   
   - Equally-owned   
     - White-owned, 84%  
@@ -100,6 +103,11 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 19%  
     - Women-owned, 18%      
     - Equally-owned, 8%      
+
+---
+
+
+&#10148; // REASONS FOR NOT APPLYING FOR FINANCING **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
 &#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
