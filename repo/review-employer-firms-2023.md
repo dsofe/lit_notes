@@ -32,7 +32,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Demographic data on firm ownership.**    
     
 &rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
-  - Race/ethnicity of ownership
+  - Race/ethnicity of ownership (% of <ins>all</ins> firms that are...)
     - White-owned, 67%    
     - Hispanic-owned, 15%   
     - Black-owned, 9%    
