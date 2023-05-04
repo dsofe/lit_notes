@@ -25,50 +25,22 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2021 survey:** administered from 09/2022&ndash;11/2022; 6,834 respondents    
 
-### Select <ins>New York Metropolitan Statistical Area</ins> data on firm ownership demographics: A snapshot of equity, diversity, and inclusion
+### Select data and findings on firms in the <ins>U.S.</ins>: A snapshot of equity, diversity, and inclusion    
 
 &#10148; **Demographic data on firm ownership.**    
-    
-&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
-  - Race/ethnicity of ownership
+
+&rarr; *Pctg. of firms by gender and race/ethnicity:*  
+  - Race/ethnicity of ownership (i.e., % of <ins>all</ins> firms that are…)
     - White-owned, 67%    
     - Hispanic-owned, 15%   
-    - Black-owned, 9%    
-    - Asian-owned, 9%    
+    - Black-owned, 11%    
+    - Asian-owned, 7%    
     - American Indian or Alaskan Native-owned, 0%    
-  - Gender of ownership    
-    - Men-owned, 67%    
-    - Women-owned, 23%
-    - Equally-owned, 9%   
-  - Immigrant ownership    
-    - Majority-owned, 28% 
-  - LGBTQ ownership    
-    - Majority-owned, 5%   
+  - Gender of ownership (i.e., % of <ins>all</ins> firms that are…)    
+    - Men- or Equally-owned, 58%    
+    - Women-owned, 42%    
 
-
-#### // select "findings on firms in the"
-
-### Select <ins>national</ins> data on firm ownership demographics and findings from report: A snapshot of equity, diversity, and inclusion
-
-&#10148; **Demographic data on firm ownership.**    
-
-&rarr; *Pctg. of firms by gender, race/ethnicity, immigrant, and LGBTQ ownership:*  
-  - Race/ethnicity of ownership
-    - White-owned, 81%     
-    - Asian-owned, 11%    
-    - Hispanic-owned, 6%  
-    - Black-owned, 2%    
-    - American Indian or Alaskan Native-owned, 0%    
-  - Gender of ownership    
-    - Men-owned, 64%    
-    - Women-owned, 22%
-    - Equally-owned, 14%   
-  - Immigrant ownership    
-    - Majority-owned, 17% 
-  - LGBTQ ownership    
-    - Majority-owned, 7%    
-
-&#10148; **Gender *and* race/ethnicity ownership data.**    
+&#10148; **Gender *and* race/ethnicity ownership data.**    // Not good   
 
 &rarr; *Pctg. of firms by race/ethnicity for each type of gender ownership:*  
   - Women-owned        
