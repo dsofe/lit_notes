@@ -88,13 +88,13 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Immigrant ownership data.**
 
 &rarr; *Pctg. of firms by race/ethnicity and gender that were majority-owned by immigrants:*  
-  - by race/ethnicity
+  - Race/ethnicity
     - Asian-owned, 49%      
     - Hispanic-owned, 38%      
     - Black-owned, 26%   
     - American Indian or Alaskan Native-owned, 14%    
     - White-owned, 11%    
-  - by gender    
+  - Gender    
     - Men-owned, 19%  
     - Women-owned, 18%      
     - Equally-owned, 8%      
