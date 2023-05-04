@@ -33,7 +33,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **Overall, the pandemic has had more negative effects on firms owned by people of color than on white-owned firms, including greater reductions to their revenue and employment.**      
 
-&rarr; *Pctg. of firms reporting revenues lower than 2019 levels:*    
+&rarr; *Pctg. of firms reporting revenues lower than 2019 levels by race/ethnicity:*    
   - 79%, Asian-owned    
   - 72% Black-owned   
   - 67%, Hispanic-owned   
@@ -53,7 +53,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &rarr; Regardless of the type of lender (i.e., small bank, large bank, online lender, finance company), firms owned by people of color (as a group) were less likely to be fully approved than White-owned firms; and rates of denial were higher for firms owned by people of color, compared to White-owned firms, across all types of lenders.
 
-&rarr; *Pctg. of firms approved for full financing, by type of lender:*  
+&rarr; *Pctg. of firms approved for full financing by race/ethnicity among types of lenders:*  
   - Large bank
     - White-owned firms, 35%
     - Firms of color, 20%
@@ -67,7 +67,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - White-owned firms, 56%
     - Firms of color, 22% 
 
-&rarr; *Pctg. of firms that were denied financing, by type of lender*    
+&rarr; *Pctg. of firms that were denied financing by race/ethnicity among types of lenders*    
   - Large bank
     - Firms of color, 61%
     - White-owned firms, 51%
@@ -87,7 +87,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   
 &#10148; **For firms that did not apply for financing (in the previous year), reasons varied across the groups:**     
 
-&rarr; *Top reasons for not applying for financing:*      
+&rarr; *Top reasons for not applying for financing by race/ethnicity:*      
   - White-owned firms, 50%--"had sufficient funding"    
   - Asian-owned firms, 34%--"debt averse"   
   - Hispanic-owned firms, 26%--"had sufficient funding"   
