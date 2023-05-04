@@ -106,13 +106,13 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
 
 &rarr; *Pctg. of firms that relied on personal savings or funds from friends and family:*  
-  - Race/ethnicity (i.e., % of firms in each group is...)
+  - Race/ethnicity (i.e., % of firms relying on this funding source in each racial/ethnic group is...)
     - Black-owned, 79%    
     - Hispanic-owned, 72%   
     - Asian-owned, 70%    
     - White-owned, 65%    
     - American Indian or Alaskan Native-owned, 56%    
-  - Gender (i.e., % of firms in each group is...)   
+  - Gender (i.e., % of firms relying on this funding source in each gender group is...)   
     - Women-owned, 74%    
     - Men-owned, 64%
     - *Equally-owned, data not available/cannot be calculated*    
@@ -120,12 +120,12 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **Although financing approval rates have declined from pre-pandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
 
 &rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
-  - Race/ethnicity (i.e., % of firms in each group is...) 
+  - Race/ethnicity (i.e., % of firms fully approved in each racial/ethnic group is...) 
     - White-owned, 58% (v. 66%)          
     - Hispanic-owned, 38% (v. 46%)   
     - Asian-owned, 33% (v. 46%)     
     - Black-owned, 20% (v. 34%)   
-  - Gender (i.e., % of firms in each group is...)    
+  - Gender (i.e., % of firms fully approved in each gender group is...)    
     - Equally-owned, 55%     
     - Men-owned, 55%        
     - Women-owned, 45%  
