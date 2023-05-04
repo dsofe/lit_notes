@@ -4,7 +4,7 @@
 
 > [Link to report](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-firms-owned-by-people-of-color.pdf?sc_lang=en&hash=EE100DBAAEE6392EA3B41189F1C4CCDB) (direct download, PDF)    
 
-### BACKGROUND
+### Background
 
 This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business employer firms by race/ethnicity; in some cases, data on firms owned by "people of color," representing a group of race/ethnicity categories, is presented against White-owned firms. It highlights the financial and operational challenges that business owners experienced. (Employer firms are defined as *businesses with 1 to 499 employees other than the owners*.)
 
