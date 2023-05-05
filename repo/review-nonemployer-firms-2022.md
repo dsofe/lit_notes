@@ -25,6 +25,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2021 survey:** administered from 09/2021&ndash;11/2021; 6,834 respondents    
 
+<br> 
+
 ### Select demographic data and report findings on firms in the <ins>U.S.</ins>.    
 
 &#10148; **Demographic data on firm ownership.**    
@@ -88,7 +90,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Larger firms, 25%  
     - Smaller firms, 26%   
 
-// FIX 
 &#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**  
 
 &rarr; *Outcomes:*    
@@ -100,41 +101,12 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Larger firms, 30%   
     - Smaller firms, 51%   
 
----
+&#10148; **Smaller firms, compared to larger firms (37% v. 16%), were more likely to be in poor financial condition at the time of the survey.**  
 
-
-&#10148; // REASONS FOR NOT APPLYING FOR FINANCING **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
-
-&#10148; **Black-owned and women-owned firms were the most likely to rely on funds from the owner's/owners' personal savings, friends, or family in the past 5 years.**
-
-&rarr; *Pctg. of firms that relied on personal savings or funds from friends and family:*  
-  - Race/ethnicity
-    - Black-owned, 79%    
-    - Hispanic-owned, 72%   
-    - Asian-owned, 70%    
-    - White-owned, 65%    
-    - American Indian or Alaskan Native-owned, 56%    
-  - Gender    
-    - Women-owned, 74%    
-    - Men-owned, 64%
-    - *Equally-owned, data not available/cannot be calculated*    
-
-&#10148; **Although financing approval rates have declined from pre-pandemic levels, White-owned firms, Men-owned, and Equally-owned firms were more likely than their counterparts to be fully approved.**    
-
-&rarr; *Pctg. of firms that were fully approved, 2022 (v. 2019):*  
-  - Race/ethnicity
-    - White-owned, 58% (v. 66%)          
-    - Hispanic-owned, 38% (v. 46%)   
-    - Asian-owned, 33% (v. 46%)     
-    - Black-owned, 20% (v. 34%)   
-  - Gender    
-    - Equally-owned, 55%     
-    - Men-owned, 55%        
-    - Women-owned, 45%  
+<br>  
 
 ### Resources
 
 -	[Small Business Credit Survey 2023 Report on Nonmployer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-nonemployer-firms.pdf?sc_lang=en&hash=72E038B7A92A51CE35ADBD66C8DBEB12) (direct download, PDF)
 -	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/sbcs-nonemployer-firms-appendix-2021.xlsx?sc_lang=en&hash=A43B603EC8076D6B090AE3908149341B) (direct download, XLSX)
 -	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF)  
-
