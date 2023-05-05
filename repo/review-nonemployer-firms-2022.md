@@ -76,7 +76,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Hispanic-owned firms, 36%--"discouraged about their chances of approval"    
   - Native American-owned, 34%--"discouraged about their chances of approval"   
 
-&#10148; **Among firms that did not apply for financing because they didn't think their applications would be approved, the top reasons underlying their beliefs were similar across smaller and larger firms: weak business financials; lenders' don't approve businesses like theirs; or lenders' strict requirements.**    
+&#10148; **Among firms that did not apply for financing because they were *discouraged about their chances of approval*, the top reasons underlying their beliefs were similar across smaller and larger firms: weak business financials; lenders' don't approve businesses like theirs; or lenders' strict requirements.**    
 
 &rarr; *Top reasons (not mutually exclusive) for not applying for financing:*    
 &ensp;&ensp; (i.e., % of firms, in each firm type, whose primary reason for not applying is...)   
