@@ -25,7 +25,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 - Aim is to understand the financing, debt needs, and experiences of small business owners    
 - **2021 survey:** administered from 09/2021&ndash;11/2021; 6,834 respondents    
 
-### Select data and findings on firms in the <ins>U.S.</ins>: A snapshot of equity, diversity, and inclusion    
+### Select demographic data and report findings on firms in the <ins>U.S.</ins>.    
 
 &#10148; **Demographic data on firm ownership.**    
 
@@ -40,22 +40,29 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men- or Equally-owned, 58%    
     - Women-owned, 42%    
 
-&#10148; **Gender *and* race/ethnicity ownership data.**    // Not good   
+&#10148; **Gender *and* race/ethnicity ownership data.**     
 
 &rarr; *Pctg. of firms by race/ethnicity for each type of gender ownership:*  
   - Women-owned (i.e., % of all <ins>Women-owned</ins> firms that are...)       
     - White-owned, 64%  
     - Hispanic-owned, 15%   
     - Black-owned, 14%      
-    - American Indian or Alaskan Native-owned, 0%      
     - Asian-owned, 7%   
+    - American Indian or Alaskan Native-owned, 0%      
   - Men-owned or equally-owned (i.e., % of all <ins>Men- or Equally-owned</ins> firms that are...)          
     - White-owned, 70%  
     - Hispanic-owned, 14%  
     - Asian-owned, 8%      
     - Black-owned, 8%         
-    - American Indian or Alaskan Native-owned, 0%   
+    - American Indian or Alaskan Native-owned, 0%  
 
+&#10148; **Nonemployer firms are more likely to than employer firms to be owned by people of color (33% v. 18%) and women (42% v. 21%).**   
+
+&#10148; **For 67% of firms, the business is the owner's only job.**    
+
+&#10148; **40% of firms work as independent contractors for other businesses or agencies.**     
+
+&#10148; **17% of firms perform gig work (e.g., Uber driver, freelancer).**   
 
 &#10148; **Among firms that did not apply for financing (in the previous year), White-owned firms were more likely to have had sufficient funding, while firms owned by people of color were more likely to have been debt averse or discouraged by their chances of approval:**     
 
@@ -67,8 +74,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Hispanic-owned firms, 36%--"discouraged about their chances of approval"    
   - Native American-owned, 34%--"discouraged about their chances of approval"   
 
-
-&#10148; **Both smaller and larger firms main reasons for not applying for financing were similar: weak business financials; lenders' don't approving businesses like theirs; or lenders' strict requirements.**    
+&#10148; **The top reasons for not applying for financing were similar across smaller and larger firms: weak business financials; lenders' don't approving businesses like theirs; or lenders' strict requirements.**    
 
 &rarr; *Top reasons (not mutually exclusive) for not applying for financing:*    
 &ensp;&ensp; (i.e., % of firms, in each firm type, whose primary reason for not applying is...)   
@@ -81,6 +87,18 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - "Lender requirements too strict" (i.e., % of smaller and larger firms that didn't apply for this reason is...)          
     - Larger firms, 25%  
     - Smaller firms, 26%   
+
+// FIX 
+&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**  
+
+&rarr; *Outcomes:*    
+&ensp;&ensp; (i.e., % of firms, in each firm type, with this outcome is...)   
+  - "Weak business financials" (i.e., % of smaller and larger firms that were fully approved is...)           
+    - Larger firms, 47%   
+    - Smaller firms, 31%   
+  - "Lenders do not approve financing for businesses like mine" (i.e., % of smaller and larger firms that were denied is...)            
+    - Larger firms, 30%   
+    - Smaller firms, 51%   
 
 ---
 
