@@ -68,7 +68,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **Among firms that did not apply for financing (in the previous year), White-owned firms were more likely to have had sufficient funding, while firms owned by people of color were more likely to have been debt averse or discouraged by their chances of approval:**     
 
-&rarr; *Top reasons for not applying for financing by race/ethnicity:*  
+&rarr; *Primary reasons for not applying for financing by race/ethnicity:*  
 &ensp;&ensp; (i.e., % of firms in each racial/ethnic group whose primary reason for not applying is...)
   - White-owned firms, 38%--"had sufficient funding"    
   - Asian-owned firms, 34%--"debt averse"   
@@ -76,7 +76,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Hispanic-owned firms, 36%--"discouraged about their chances of approval"    
   - Native American-owned, 34%--"discouraged about their chances of approval"   
 
-&#10148; **The top reasons for not applying for financing were similar across smaller and larger firms: weak business financials; lenders' don't approving businesses like theirs; or lenders' strict requirements.**    
+&#10148; **Among firms that did not apply for financing because they didn't think their applications would be approved, the top reasons underlying their beliefs were similar across smaller and larger firms: weak business financials; lenders' don't approving businesses like theirs; or lenders' strict requirements.**    
 
 &rarr; *Top reasons (not mutually exclusive) for not applying for financing:*    
 &ensp;&ensp; (i.e., % of firms, in each firm type, whose primary reason for not applying is...)   
@@ -90,7 +90,8 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Larger firms, 25%  
     - Smaller firms, 26%   
 
-&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, firms owned by people of color were less likely than white-owned firms to be approved for financing.**  
+// FIX   
+&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, smaller firms were less likely than larger firms to be approved for financing.**  
 
 &rarr; *Outcomes:*    
 &ensp;&ensp; (i.e., % of firms, in each firm type, with this outcome is...)   
