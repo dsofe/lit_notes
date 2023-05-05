@@ -6,7 +6,7 @@
 
 ### Background
 
-This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business <ins>nonemployer</ins> firms (i.e., firms with no employees other than the owner).  
+This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2021, on small business <ins>nonemployer</ins> firms (i.e., firms with no employees other than the owner). It highlights the financial and operational challenges that business owners experienced.    
 
 > &rarr; **A note on "smaller" v. "larger" nonemployer firms:** "Smaller" firms are those reporting <$100,000 in annual revenues; "larger" firms are those reporting &ge;$100,000 in annual revenues.  
 > 
