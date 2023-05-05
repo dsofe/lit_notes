@@ -130,6 +130,25 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Men-owned, 55%        
     - Women-owned, 45%  
 
+&#10148; **Challenges with financial services providers based on credit applications (in the previous year) varied.**    
+
+&rarr; *Top challenges (not mutually exclusive) with financial services providers:*    
+&ensp;&ensp; (i.e., % of firms that cited this as a challenge with this financial services provider is...)   
+  - CDFI      
+    - "Long wait for credit decision or funding", 45%  
+  - Credit Union         
+    - "High interest rate", 23%  
+  - Finance company    
+    - "High interest rate", 33%     
+  - Large bank         
+    - "Long wait for credit decision or funding", 23%  
+  - Online lender    
+    - "High interest rate", 43%   
+  - Other lender         
+    - "Difficult application process", 29%  
+  - Small bank         
+    - "Long wait for credit decision or funding", 19%   
+
 <br>  
 
 ### RESOURCES
