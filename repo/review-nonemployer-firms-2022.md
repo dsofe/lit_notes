@@ -70,7 +70,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 &#10148; **28% of firm owners reported collecting unemployment insurance (in the previous year).**  
 
-&#10148; **Data on firms' use of financial services from specific providers.**     
+&#10148; **Data on firms' use of specific financial services providers.**     
 
 &rarr; *Financial services providers (not mutually exclusive; firms may have multiple accounts):*  
 &ensp;&ensp; (i.e., % of firms using financial services from each of these providers is...)
