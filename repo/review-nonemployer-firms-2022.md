@@ -10,7 +10,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 > &rarr; **A note on "smaller" v. "larger" nonemployer firms:** "Smaller" firms are those reporting <$100,000 in annual revenues; "larger" firms are those reporting &ge;$100,000 in annual revenues.  
 > 
-> &rarr; **A note on data by geography:** Only nationwide data on small businesses is available.     
+> &rarr; **A note on data by geography:** Only nationwide data on small businesses are available.     
 > 
 > &rarr; **A note on data by demographic factors:** Preliminary data by demographics, like race/ethnicity and gender, are available; additional insights on nonemployer firms owned by people of color may be available when the 2023 report is released later this year.   
 
@@ -56,7 +56,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
     - Hispanic-owned, 14%  
     - Asian-owned, 8%      
     - Black-owned, 8%         
-    - American Indian or Alaskan Native-owned, 0%  
+    - American Indian or Alaskan Native-owned, 0% 
 
 &#10148; **Nonemployer firms are more likely to than employer firms to be owned by people of color (33% v. 18%) and women (42% v. 21%).**   
 
@@ -65,6 +65,27 @@ This report from Fed Small Business describes data, collected by the Small Busin
 &#10148; **40% of firms work as independent contractors for other businesses or agencies.**     
 
 &#10148; **17% of firms perform gig work (e.g., Uber driver, freelancer).**   
+
+&#10148; **Smaller firms, compared to larger firms (37% v. 16%), were more likely to be in poor financial condition at the time of the survey.**   
+
+&#10148; **28% of firm owners reported collecting unemployment insurance (in the previous year).**  
+
+&#10148; **Data on firms' use of financial services from specific providers.**     
+
+&rarr; *Financial services providers (not mutually exclusive; firms may have multiple accounts):*  
+&ensp;&ensp; (i.e., % of firms using financial services from each of these providers is...)
+  - Large bank, 48%    
+  - Small bank, 34%    
+  - Credit union, 20%    
+  - Business financial services company, 11%    
+  - Online lender (e.g., OnDeck, PayPal), 11%    
+  - Firm does not use financial services, 6%    
+  - Finance company (e.g., mortgage companies, investment funds), 4%    
+  - Other, 4%    
+  - Alternative financial source (e.g., payday lender, check cashing), 2%    
+  - CDFI, 2%    
+
+&#10148; **When seeking loans, lines of credit, and cash advances from banks or nonbank lenders (in the previous year), smaller firms, compared to larger firms, were less likely to be approved for financing (31% v. 47%) and were more likely to be denied (51% v. 30%).**   
 
 &#10148; **Among firms that did not apply for financing (in the previous year), White-owned firms were more likely to have had sufficient funding, while firms owned by people of color were more likely to have been debt averse or discouraged by their chances of approval:**     
 
@@ -76,7 +97,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - Hispanic-owned firms, 36%--"discouraged about their chances of approval"    
   - Native American-owned, 34%--"discouraged about their chances of approval"   
 
-&#10148; **Among firms that did not apply for financing because they were *discouraged about their chances of approval*, the top reasons underlying their beliefs were similar across smaller and larger firms: weak business financials; lenders' don't approve businesses like theirs; or lenders' strict requirements.**    
+&#10148; **Among firms that did not apply for financing (in the previous year) because they were *discouraged about their chances of approval*, the top reasons underlying their beliefs were similar across smaller and larger firms: weak business financials; lenders' don't approve businesses like theirs; or lenders' strict requirements.**    
 
 &rarr; *Top reasons (not mutually exclusive) for not applying for financing:*    
 &ensp;&ensp; (i.e., % of firms, in each firm type, whose primary reason for not applying is...)   
@@ -89,20 +110,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
   - "Lender requirements too strict" (i.e., % of smaller and larger firms that didn't apply for this reason is...)          
     - Larger firms, 25%  
     - Smaller firms, 26%   
-
-// FIX   
-&#10148; **When seeking loans, lines of credit, and cash advances from banks (large or small) and nonbank lenders, smaller firms were less likely than larger firms to be approved for financing.**  
-
-&rarr; *Outcomes:*    
-&ensp;&ensp; (i.e., % of firms, in each firm type, with this outcome is...)   
-  - "Weak business financials" (i.e., % of smaller and larger firms that were fully approved is...)           
-    - Larger firms, 47%   
-    - Smaller firms, 31%   
-  - "Lenders do not approve financing for businesses like mine" (i.e., % of smaller and larger firms that were denied is...)            
-    - Larger firms, 30%   
-    - Smaller firms, 51%   
-
-&#10148; **Smaller firms, compared to larger firms (37% v. 16%), were more likely to be in poor financial condition at the time of the survey.**  
 
 <br>  
 
