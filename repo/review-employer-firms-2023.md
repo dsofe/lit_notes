@@ -6,7 +6,7 @@
 
 ### Background
 
-This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2022, on small business employer firms.  
+This report from Fed Small Business describes data, collected by the Small Business Credit Survey in 2022, on small business employer firms.  It highlights the financial and operational challenges that business owners experienced.    
 
 > &rarr; **A note on data by geography:** Data on small businesses in NYC alone are not presented; there are data only for New York State (*n* = 296) or the New York-Newark-Jersey City, NY-NJ-PA, Metropolitan Statistical Area (*n* = 706).  
 > 
