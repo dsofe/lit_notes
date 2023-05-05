@@ -107,6 +107,6 @@ This report from Fed Small Business describes data, collected by the Small Busin
 
 ### Resources
 
--	[Small Business Credit Survey 2023 Report on Nonmployer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-nonemployer-firms.pdf?sc_lang=en&hash=72E038B7A92A51CE35ADBD66C8DBEB12) (direct download, PDF)
+-	[Small Business Credit Survey 2023 Report on Nonemployer Firms](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/2022-sbcs-nonemployer-firms.pdf?sc_lang=en&hash=72E038B7A92A51CE35ADBD66C8DBEB12) (direct download, PDF)
 -	[2021 Survey data appendix](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2022/sbcs-nonemployer-firms-appendix-2021.xlsx?sc_lang=en&hash=A43B603EC8076D6B090AE3908149341B) (direct download, XLSX)
 -	[2021 Survey questionnaire](https://www.fedsmallbusiness.org/-/media/project/smallbizcredittenant/fedsmallbusinesssite/fedsmallbusiness/files/2021/2021-sbcs-questionnaire.pdf) (direct download, PDF)  
