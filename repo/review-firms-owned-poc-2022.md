@@ -89,7 +89,7 @@ This report from Fed Small Business describes data, collected by the Small Busin
  
 &rarr; Black- and Hispanic-owned firms (33% and 29%, respectively) were more likely than White- and Asian-owned firms (23% and 20%, respectively) to turn to online lenders.   
   
-&#10148; **For firms that did not apply for financing (in the previous year), reasons varied across the groups:**     
+&#10148; **For firms that did not apply for financing (in the previous year), reasons varied across the groups.**     
 
 &rarr; *Top reasons for not applying for financing by race/ethnicity:*  
 &ensp;&ensp; (i.e., % of firms in each racial/ethnic group whose primary reason for not applying is...)
